@@ -1,0 +1,8 @@
+*.suo
+*.exe
+*.pdb
+*.config
+*.manifest
+*.cache
+myMp3Gain/bin/
+myMp3Gain/obj/
